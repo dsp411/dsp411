@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer • UI/UX Designer • Frontend Designer • AI Engineer
+Web Developer • UI/UX • Designer • Frontend Designer • AI Engineer
 
 
 # 💻 Tech Stack:
